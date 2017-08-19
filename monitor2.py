@@ -3,10 +3,6 @@ My First Internet of Things
 
 Temperature/Humidity Light monitor using Raspberry Pi, DHT11, and photosensor 
 Data is displayed at thingspeak.com
-2015/06/15
-SolderingSunday.com
-
-Based on project by Mahesh Venkitachalam at electronut.in
 
 """
 # Import all the libraries we need to run
